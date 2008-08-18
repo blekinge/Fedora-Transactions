@@ -15,7 +15,10 @@
     <option name="historyRevisionsNumber" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" name="Default" comment="" />
+    <list default="true" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Fedora3.iws" afterPath="$PROJECT_DIR$/Fedora3.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Fedora3.ipr" afterPath="$PROJECT_DIR$/Fedora3.ipr" />
+    </list>
     <ignored path="Fedora3.iws" />
     <ignored path=".idea/workspace.xml" />
   </component>
@@ -80,6 +83,39 @@
   <component name="FavoritesManager">
     <favorites_list name="Fedora3" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TransactionDOManager.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file:///home/abr/Desktop/fedora-3.0-src/src/java/fedora/server/storage/TransactionDOManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="36" selection-start="2074" selection-end="2074" vertical-scroll-proportion="0.02377179">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1219075012000" expanded="true" signature="666:812" placeholder="/**...*/" />
+                <marker date="1219075012000" expanded="true" signature="995:1045" placeholder="/**...*/" />
+                <marker date="1219075012000" expanded="true" signature="1225:1401" placeholder="{...}" />
+                <marker date="1219075012000" expanded="true" signature="1511:1781" placeholder="{...}" />
+                <marker date="1219075012000" expanded="true" signature="1972:2429" placeholder="{...}" />
+                <marker date="1219075012000" expanded="true" signature="2435:2517" placeholder="/**...*/" />
+                <marker date="1219075012000" expanded="true" signature="2572:2711" placeholder="{...}" />
+                <marker date="1219075012000" expanded="true" signature="2846:3267" placeholder="{...}" />
+                <marker date="1219075012000" expanded="true" signature="3418:3700" placeholder="{...}" />
+                <marker date="1219075012000" expanded="true" signature="3854:4602" placeholder="{...}" />
+                <marker date="1219075012000" expanded="true" signature="4742:5502" placeholder="{...}" />
+                <marker date="1219075012000" expanded="true" signature="5509:5575" placeholder="/**...*/" />
+                <marker date="1219075012000" expanded="true" signature="5750:6226" placeholder="{...}" />
+                <marker date="1219075012000" expanded="true" signature="6232:6298" placeholder="/**...*/" />
+                <marker date="1219075012000" expanded="true" signature="6531:7394" placeholder="{...}" />
+                <marker date="1219075012000" expanded="true" signature="7643:8317" placeholder="{...}" />
+                <marker date="1219075012000" expanded="true" signature="8323:8381" placeholder="/**...*/" />
+                <marker date="1219075012000" expanded="true" signature="8556:8788" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
@@ -129,6 +165,20 @@
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
+  <component name="PackagesPane">
+    <subPane>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Fedora3" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="fedora-3.0" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </subPane>
+  </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -148,6 +198,42 @@
           <option name="myItemId" value="Fedora3" />
           <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
         </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="fedora-3.0" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Fedora3" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="fedora-3.0" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/home/abr/projects/fedora-transactions" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Fedora3" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="fedora-3.0" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/home/abr/projects/fedora-transactions" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/home/abr/projects/fedora-transactions/src" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
       </PATH>
     </subPane>
   </component>
@@ -155,14 +241,14 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="0.16666667" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="0.5" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <showStructure ProjectPane="false" />
+      <showStructure PackagesPane="false" ProjectPane="false" />
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
@@ -173,11 +259,55 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="TEMP_MODULE_EXPLODED_DIR_FOR_fedora-3.0/web/Web" value="/tmp/webExplodedDir41003tmp" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="TEMP_MODULE_EXPLODED_DIR_FOR_fedora-3.0/web/Web2" value="/tmp/webExplodedDir44241tmp" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="TEMP_MODULE_EXPLODED_DIR_FOR_fedora-3.0/web/Web3" value="/tmp/webExplodedDir44242tmp" />
+    <property name="TEMP_MODULE_EXPLODED_DIR_FOR_fedora-3.0/web/Web4" value="/tmp/webExplodedDir2054tmp" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG" enabled="false" merge="false">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="ADDITIONAL_CLASS_PATH" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" value="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -198,18 +328,6 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit" enabled="false" merge="false">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -228,6 +346,9 @@
         <value defaultName="wholeProject" />
       </option>
       <envs />
+      <method>
+        <option name="Make" value="true" />
+      </method>
     </configuration>
     <list size="0" />
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -287,25 +408,26 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" order="3" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" order="8" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" order="5" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19664733" order="1" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987013" order="1" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287858" order="1" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" order="3" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" order="9" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" order="3" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278328" order="10" />
-      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" order="-1" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" order="11" />
+      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" order="4" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" order="11" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" order="7" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24939074" order="1" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" order="0" />
       <window_info id="Maven projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" order="4" />
       <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" order="6" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13367943" order="0" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987013" order="0" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" order="12" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24951644" order="2" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" order="6" />
       <window_info id="Duplicates" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" order="13" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" order="2" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" order="14" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" order="5" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" order="0" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" order="2" />
@@ -366,10 +488,52 @@
       <option name="VERSION" />
     </GetOptions>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/build.xml">
+      <antCommandLine value="" />
+      <runInBackground value="true" />
+      <targetFilters />
+      <treeView value="true" />
+      <verbose value="true" />
+      <viewClosedWhenNoErrors value="false" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///home/abr/Desktop/fedora-3.0-src/src/java/fedora/server/storage/TransactionDOManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="36" selection-start="2074" selection-end="2074" vertical-scroll-proportion="0.02377179">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1219075012000" expanded="true" signature="666:812" placeholder="/**...*/" />
+            <marker date="1219075012000" expanded="true" signature="995:1045" placeholder="/**...*/" />
+            <marker date="1219075012000" expanded="true" signature="1225:1401" placeholder="{...}" />
+            <marker date="1219075012000" expanded="true" signature="1511:1781" placeholder="{...}" />
+            <marker date="1219075012000" expanded="true" signature="1972:2429" placeholder="{...}" />
+            <marker date="1219075012000" expanded="true" signature="2435:2517" placeholder="/**...*/" />
+            <marker date="1219075012000" expanded="true" signature="2572:2711" placeholder="{...}" />
+            <marker date="1219075012000" expanded="true" signature="2846:3267" placeholder="{...}" />
+            <marker date="1219075012000" expanded="true" signature="3418:3700" placeholder="{...}" />
+            <marker date="1219075012000" expanded="true" signature="3854:4602" placeholder="{...}" />
+            <marker date="1219075012000" expanded="true" signature="4742:5502" placeholder="{...}" />
+            <marker date="1219075012000" expanded="true" signature="5509:5575" placeholder="/**...*/" />
+            <marker date="1219075012000" expanded="true" signature="5750:6226" placeholder="{...}" />
+            <marker date="1219075012000" expanded="true" signature="6232:6298" placeholder="/**...*/" />
+            <marker date="1219075012000" expanded="true" signature="6531:7394" placeholder="{...}" />
+            <marker date="1219075012000" expanded="true" signature="7643:8317" placeholder="{...}" />
+            <marker date="1219075012000" expanded="true" signature="8323:8381" placeholder="/**...*/" />
+            <marker date="1219075012000" expanded="true" signature="8556:8788" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
       <option name="birdViewUpdateDelay" value="2000" />
       <option name="defaultFileLocation" value="file:///home/abr/Desktop" />
+      <option name="knownFile0" value="file:///home/abr/projects/test.suml" />
     </General>
     <Classdiagram>
       <option name="diagramTitleFont" value="SansSerif,1,12" />
